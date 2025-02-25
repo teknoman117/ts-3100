@@ -1,0 +1,3 @@
+WDTCLR: equ 0xF4C8
+WDTRLDH: equ 0xF4C0
+WDTRLDL: equ 0xF4C2
