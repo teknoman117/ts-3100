@@ -1,0 +1,3 @@
+[submodule "emulator"]
+	path = emulator
+	url = ../ts-x86-emulator
